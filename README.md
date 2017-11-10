@@ -19,6 +19,6 @@ CASA, python2.4+, numpy
 
 ## Usage
 
-Download both SERPent4casa.py and SERPent4casa_input.py
-Make the relevant changes to the input file 
-Run with casa -c SERPent4casa.py
+1. Download both SERPent4casa.py and SERPent4casa_input.py
+2. Make the relevant changes to the input file 
+3. Run with `casa -c SERPent4casa.py`
